@@ -30,4 +30,4 @@ social:
 markdown: kramdown
 permalink: pretty
 
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
+exclude: ['vendor']
